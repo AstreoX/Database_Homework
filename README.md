@@ -1,4 +1,4 @@
-# 🐘 数据库系统原理 · 课程实验 (PostgreSQL 版)
+# 🐘 数据库系统作业
 
 <p align="center">
   <img src="assets/terminal.svg" width="600" alt="PostgreSQL Terminal Animation">
